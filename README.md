@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tobiasmllr, Environmental Data Scientist
 - 👀 I’m interested in data science, numerical modelling of environmental data, interactive data presentation.
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me: `to.mueller@gmail.com`
 
 <!---
